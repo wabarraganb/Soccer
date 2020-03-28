@@ -15,4 +15,8 @@
     <Folder Include="wwwroot\images\Tournaments\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Soccer.Common\Soccer.Common.csproj" />
+  </ItemGroup>
+
 </Project>
